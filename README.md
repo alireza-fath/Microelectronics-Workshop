@@ -22,7 +22,7 @@ This repository is intended as an educational resource for teachers participatin
 ## Attributions
 
 - Robot platform and some example code are from [ELEGOO](https://us.elegoo.com/).
-- Workshop and custom code are provided by [Alireza Fath](https://github.com/alireza-fath) for the UVM Microelectronics Workshop.
+- Workshop and custom code are provided by [Alireza Fath](https://github.com/alireza-fath), Cooper Duggan, Morgan Barnes, Alexander Hoefer, Lanhjamin Tran, and Patrick O'Rourke for the UVM Microelectronics Workshop.
 
 ## License
 
